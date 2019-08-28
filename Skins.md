@@ -4,7 +4,7 @@
 
 # If skin is not listed please wait a bit as it most likely isn't uploaded due to the skin being new most of the time.
 
-# [Gasha's main blue skin](http://puu.sh/EavTY/106a666a02.osk)
+# [Gasha's blue new](http://puu.sh/EavTY/106a666a02.osk)
 ![](http://puu.sh/EavVX/f8a5133bf6.jpg)
 
 # [Gasha's main blue skin](https://drive.google.com/file/d/1WqoEZgdjb5_6gpolEAFqJ9C4wy5UsFD3/view)
