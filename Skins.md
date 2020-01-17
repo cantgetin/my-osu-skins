@@ -5,10 +5,10 @@
 # If skin is not listed please wait a bit as it most likely isn't uploaded due to the skin being new most of the time.
 
 
-# [Gasha latest dark blue normal hc](http://puu.sh/EavTY/106a666a02.osk)
+# [Gasha latest dark blue normal hc](https://www.dropbox.com/s/5vkieec6x3x6s5t/-%20%21Gasha%20latest%20dark%20blue%20normal%20hc.osk?dl=0)
 ![](https://i.imgur.com/1eDh9It.jpg)
 
-# [Gasha v1.2 dark blue fat hc](http://puu.sh/EavTY/106a666a02.osk)
+# [Gasha v1.2 dark blue fat hc](https://www.dropbox.com/s/gj6vhtmm3qfoa74/-%20%21Gasha%20v1.2%20dark%20blue%20fat%20hc.osk?dl=0)
 ![](https://i.imgur.com/CNwbbVO.jpg)
 
 # [Gasha v1.1 light blue normal hc](http://puu.sh/EavTY/106a666a02.osk)
@@ -17,10 +17,10 @@
 # [Gasha v1.0 light blue fat hc](https://drive.google.com/file/d/1WqoEZgdjb5_6gpolEAFqJ9C4wy5UsFD3/view)
 ![](https://i.imgur.com/c6c0qSk.jpg)
 
-# [YUGEN badeu style](https://drive.google.com/file/d/1WqoEZgdjb5_6gpolEAFqJ9C4wy5UsFD3/view)
+# [YUGEN badeu style](https://www.dropbox.com/s/5h7yylb6p8lmioz/-%20YUGEN%20FINAL%20-%20Widescreen.osk?dl=0)
 ![](https://i.imgur.com/zjzgTIy.jpg)
 
-# [Milhiore+Lite](https://drive.google.com/file/d/1WqoEZgdjb5_6gpolEAFqJ9C4wy5UsFD3/view)
+# [Milhiore+Lite](https://www.dropbox.com/s/i0rktasd8dibcgq/Millhiore%20Lite.osk?dl=0)
 ![](https://i.imgur.com/BA59UNx.jpg)
 
 # [Rafis dt](https://drive.google.com/file/d/1ro6wACrz0k9hL6fdk1JHm2ixoBnLCn0o/view)
