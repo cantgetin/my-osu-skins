@@ -1,6 +1,6 @@
 # Gasha's osu! skins
 
-# Если нужного вам скина здесь нет, то скорее всего он скоро появится, в течение нескольких дней.
+Если нужного вам скина здесь нет, то скорее всего он скоро появится, в течение нескольких дней.
 
 # If skin is not listed please wait a bit as it most likely isn't uploaded due to the skin being new most of the time.
 
