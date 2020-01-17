@@ -2,7 +2,7 @@
 
 Если нужного вам скина здесь нет, то скорее всего он скоро появится, в течение нескольких дней.
 
-# If skin is not listed please wait a bit as it most likely isn't uploaded due to the skin being new most of the time.
+If skin is not listed please wait a bit as it most likely isn't uploaded due to the skin being new most of the time.
 
 
 # [Gasha latest dark blue normal hc](https://www.dropbox.com/s/5vkieec6x3x6s5t/-%20%21Gasha%20latest%20dark%20blue%20normal%20hc.osk?dl=0)
