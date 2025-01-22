@@ -1,8 +1,23 @@
-# Gasha's osu! skins
+# Gasha osu! skins
 
-Если нужного вам скина здесь нет, то скорее всего он скоро появится, в течение нескольких дней.
+# [Gasha nomod showcase skin](https://www.dropbox.com/scl/fi/20f5ajfsk0jdpy5t4o7n0/Gasha_showcase_skin-2.osk?rlkey=n4uhw7qu14dlt5dritv4qfwho&st=dh8vndgr&dl=0)
+### последняя версия скина для номода
+![](https://i.imgur.com/rEpF73H.jpeg)
 
-If skin is not listed please wait a bit as it most likely isn't uploaded due to the skin being new most of the time.
+# [Mrekk EZ](https://www.dropbox.com/scl/fi/19uhz1h54gcgh2wxh3k9l/Mrekk-2.0-NM.osk?rlkey=6bahe89083iykxzturbx1yoae&st=mizrqeo9&dl=0)
+### скин с которым играю EZ
+![](https://i.imgur.com/d5l7o0N.jpeg)
+
+# [dt mix white ringing](https://www.dropbox.com/scl/fi/n5y0puj5qcmu4738wh6pi/dt-mix-white-ringing.osk?rlkey=lzsv18j7de3pga2wm0lvbivlw&st=fdjr547p&dl=0)
+### звонкие хитсаунды с которыми проще играть в акку
+![](https://i.imgur.com/LKueXW9.jpeg)
+
+# [dt mix white regular](https://www.dropbox.com/scl/fi/jlbn0vhsidgby975dvxwn/dt-mix-white-regular.osk?rlkey=gk3b8h6d8011sjcgvf5dozpq2&st=zxhauori&dl=0)
+### обычные хитсаунды из скина рафиса
+![](https://i.imgur.com/COECPaT.jpeg)
+
+# [rafis 2017](https://www.dropbox.com/scl/fi/cpk9xcns90y6s88a1ny6j/Prawilosc-vJP-without-followpoints.osk?rlkey=sb3k3podugvx24xr70b5joicw&st=1g0erer3&dl=0)
+![](https://i.imgur.com/fVN6hXF.jpeg)
 
 # [GASHA LAST SKIN LIL MORTY EDITION](https://www.dropbox.com/s/5u3cam85jfbtaz2/%23Gasha_showcase_skin.osk?dl=0)
 ![](https://i.imgur.com/w2Apz45.jpg)
